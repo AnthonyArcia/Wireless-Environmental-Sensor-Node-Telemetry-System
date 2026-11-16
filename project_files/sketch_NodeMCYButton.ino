@@ -1,7 +1,3 @@
-//https://www.instructables.com/id/NodeMCU-Basic-Project-Blink-a-LED/
-//https://arduino.stackexchange.com/questions/55235/nodemcu-use-flash-button-as-input-in-loop
-//  Use this for class instruction  Works
-//  Modifications by H. Watson  02/2020
 #define LED D0            // Led in NodeMCU at pin GPIO16 (D0) pin 15
 #define BUTTON_PIN D3    // On boad Flash button GPIO0 (D3) pin 12
 
