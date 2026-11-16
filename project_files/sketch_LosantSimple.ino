@@ -1,22 +1,3 @@
-/**
- * Example that connects an ESP8266 NodeMCU to the Losant
- * IoT platform. This example reports state to Losant whenever a button is
- * pressed. It also listens for the "toggle" command to turn the LED on and off.
- *
- * This example assumes the following connections:
- * Button connected to pin  D3
- * LED connected to pin     D0
- * 
- *   ESP8266WiFi comes with 
- *   Enter https://arduino.esp8266.com/stable/package_esp8266com_index.json into the 
- *   File>Preferences>Additional Boards Manager URLs field of the Arduino IDE.
- *
- * Copyright (c) 2016 Losant. All rights reserved.
- * http://losant.com
- * Modifications by H. Watson 02/2020
- * Compiles 20211019 HW
- */
-
 #include <ESP8266WiFi.h>
 #include <Losant.h>
 
