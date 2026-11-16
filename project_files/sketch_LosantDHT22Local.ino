@@ -1,15 +1,3 @@
-/**
- * Example for reading temperature and humidity
- * using the DHT22 and ESP8266 with beegee library
- * sketch_LosantDHT22Local 
- * no Adafruit - better accuracy
- *  https://github.com/beegee-tokyo/DHTesp
- *
-  * Copyright (c) 2016 Losant IoT. All rights reserved.
- * https://www.losant.com
- * Modified by H. Watson 02/2020
- */
-
 //#include "DHT.h"
 #include "DHTesp.h"
 
